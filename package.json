@@ -1,0 +1,21 @@
+{
+  "name": "lab5-2683459",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lab5-2683459"
+  },
+  "author": "Tafara Chibanda",
+  "license": "UNLICENSED",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "sequelize": "^6.37.6",
+    "sqlite3": "^5.1.7"
+  }
+}
